@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoDiaryEvent", "PhotoDiaryEvent.csproj", "{611A3717-BB35-4B8B-9323-28AE9463B5B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{611A3717-BB35-4B8B-9323-28AE9463B5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611A3717-BB35-4B8B-9323-28AE9463B5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611A3717-BB35-4B8B-9323-28AE9463B5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611A3717-BB35-4B8B-9323-28AE9463B5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0452BE39-EAF6-46AD-B528-49277B31F934}
+	EndGlobalSection
+EndGlobal

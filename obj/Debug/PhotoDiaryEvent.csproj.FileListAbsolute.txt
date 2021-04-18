@@ -1,0 +1,10 @@
+F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\bin\Debug\PhotoDiaryEvent.exe.config
+F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\bin\Debug\PhotoDiaryEvent.exe
+F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\bin\Debug\PhotoDiaryEvent.pdb
+F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\obj\Debug\PhotoDiaryEvent.csprojAssemblyReference.cache
+F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\obj\Debug\PhotoDiaryEvent.Login.resources
+F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\obj\Debug\PhotoDiaryEvent.Properties.Resources.resources
+F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\obj\Debug\PhotoDiaryEvent.csproj.GenerateResource.cache
+F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\obj\Debug\PhotoDiaryEvent.csproj.CoreCompileInputs.cache
+F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\obj\Debug\PhotoDiaryEvent.exe
+F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\obj\Debug\PhotoDiaryEvent.pdb
