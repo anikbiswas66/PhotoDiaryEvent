@@ -92,9 +92,9 @@ namespace PhotoDiaryEvent
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(192)))), ((int)(((byte)(128)))));
             this.label1.Location = new System.Drawing.Point(37, 69);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(540, 35);
+            this.label1.Size = new System.Drawing.Size(555, 35);
             this.label1.TabIndex = 5;
-            this.label1.Text = "Welcome to my Event Photo Diary";
+            this.label1.Text = "Welcome to my Digital Photo Diary";
             this.label1.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
             // Login
