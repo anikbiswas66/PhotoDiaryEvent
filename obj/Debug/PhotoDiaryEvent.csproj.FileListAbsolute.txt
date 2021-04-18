@@ -9,3 +9,4 @@ F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\obj\De
 F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\obj\Debug\PhotoDiaryEvent.exe
 F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\obj\Debug\PhotoDiaryEvent.pdb
 F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\obj\Debug\PhotoDiaryEvent.Registration.resources
+F:\Aiub\10th semester\C#\Assignment\Final\PhotoDiaryEvent\PhotoDiaryEvent\obj\Debug\PhotoDiaryEvent.DigitalPhotoDiary.resources

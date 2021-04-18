@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DigitalPhotoDiary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DigitalPhotoDiary.Designer.cs">
+      <DependentUpon>DigitalPhotoDiary.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -60,6 +66,9 @@
     <Compile Include="Registration.Designer.cs">
       <DependentUpon>Registration.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="DigitalPhotoDiary.resx">
+      <DependentUpon>DigitalPhotoDiary.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
